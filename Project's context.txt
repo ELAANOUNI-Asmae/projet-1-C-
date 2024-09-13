@@ -1,0 +1,6 @@
+>>>>>>Problem 1 :
+
+_Write a program that reads a TXT text (less than 200 characters) and removes all o
+ccurrences of the character 'e' by shifting the remaining elements. 
+
+_The modifications should be made in the same TXT variable
